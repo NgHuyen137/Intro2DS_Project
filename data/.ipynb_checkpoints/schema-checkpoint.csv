@@ -1,0 +1,20 @@
+﻿Column,Meaning
+Date published,thời gian bài đánh giá được đăng
+Name,tên hành khách đánh giá
+Review_header,tiêu đề bài đánh giá
+Review_body,nội dung bài đánh giá
+Verified_review,đánh giá được xác minh/chưa được xác minh
+Type_of_traveller,loại khách du lịch
+Seat_type,loại chỗ ngồi
+Route,tuyến đường bay
+Date_flown,ngày khởi hành bay
+Air craft,loại máy bay
+Seat_comfort,mức độ hài lòng về chỗ ngồi
+Cabin_staff_service,mức độ hài lòng về chất lượng phục vụ của nhân viên
+Food_and_beverages,mức độ hài lòng về thức ăn và đồ uống
+Inflight_entertainments,mức độ hài lòng về các dịch vụ giải trí
+Ground_service,mức độ hài lòng về các dịch vụ diễn ra trên mặt đất
+Value_for_money,mức độ hài lòng với số tiền bỏ ra
+Wifi_and_connectivity,mức độ hài lòng về Wifi và khả năng kết nối không dây
+Overall_rating,đánh giá tổng quan
+Recommended,gợi ý/không gợi ý hãng hàng không British Airways
